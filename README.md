@@ -1,4 +1,4 @@
-# ProyectoFinal - Python 50190
+# ProyectoFinal - Python 50190 - Gabriel Ibarra
 **Entrega de proyecto Final Python-Django CoderHouse**
 
 ## Streethouse - Tu Espacio de Moda y Cultura Urbana
